@@ -1,0 +1,1 @@
+Project Permit is a comprehensive project approval system designed to streamline and automate the approval process for various types of projects within an organization. This system ensures that projects are vetted, approved, and tracked efficiently, reducing administrative overhead and enhancing transparency and accountability.
